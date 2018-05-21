@@ -2,3 +2,4 @@ license
 11111
 22222
 add to stage , but need to rollback.
+stage area add new line.
