@@ -9,3 +9,5 @@ vi command mode
    :q! 强制退出不存盘
    ddadada
 normal merge
+
+with "--no-ff" merge
