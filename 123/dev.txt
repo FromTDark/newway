@@ -8,6 +8,6 @@ vi command mode
    :wq 存盘修改退出
    :q! 强制退出不存盘
    ddadada
-normal merge
+normal merge xxxxxxxxxxxxxxxx
 
 with "--no-ff" merge
