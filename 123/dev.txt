@@ -11,3 +11,5 @@ vi command mode
 normal merge xxxxxxxxxxxxxxxx
 
 with "--no-ff" merge
+
+git stash //贮藏;隐藏，藏匿; 处理及时bug，将当前开发分支储藏起来，修复bug后git stash pop回到现场
